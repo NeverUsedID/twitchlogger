@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/mlvzk/twitchlogger"
+	"github.com/NeverUsedID/twitchlogger"
 )
 
 func main() {
